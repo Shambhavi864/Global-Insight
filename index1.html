@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThePace</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+
+        <!-- 1 -->
+        <div class="main-nav">
+            <!-- b -->
+                <a class="sub" href="#">Subscribe</a>
+            <!-- a -->
+            <div class="logo-border">
+                <div class="logo"></div>
+            </div>
+            <!-- c -->
+            <div class="search-bar">
+                <input id="search-text" type="text" class="news-input" placeholder="e.g. Science">
+                <button id="search-button" class="search-button">Search</button>
+            </div>
+        </div>
+
+    </nav>
+
+        <div class="panel">
+            <div class="panel-options">
+                <p class="option" id="WORLD" onclick="onNavItemClick('WORLD')">WORLD</p>
+                <p class="option" id="POLITICS" onclick="onNavItemClick('POLITICS')">POLITICS</p>
+                <p class="option" id="SPORTS" onclick="onNavItemClick('SPORTS')">SPORTS</p>
+                <p class="option" id="FINANCE" onclick="onNavItemClick('FINANCE')">FINANCE</p>
+                <p class="option" id="INTERNATIONAL"onclick="onNavItemClick('INTERNATIONAL')">INTERNATIONAL</p>
+                <p class="option" id="ENVIRONMENT" onclick="onNavItemClick('ENVIRONMENT')">ENVIRONMENT</p>
+                <p class="option" id="TECHNOLOGY" onclick="onNavItemClick('TECHNOLOGY')">TECHNOLOGY</p>   
+            </div>
+        </div>
+
+
+
+        <main>
+            <div class="cards-container container" id="cards-container">
+            
+            </div>
+        </main>
+
+
+        <!-- MOST IMP AS TEMPLATE USED FOR MAKING SIMILAR CARDS -->
+        <!-- WILL NOT SHOW CARD UNTIL API(NewsApi.org) AS TEMPLATE IS SUPPORTED IN DOCUMENT MODE -->
+        <template id="template-news-card">
+            <div class="card">
+                <div class="card-header">
+                    <img src="https://via.placeholder.com/400x200" alt="news-image" id="news-img">
+                </div>
+                <div class="card-content">
+                    <h3 id="news-title">This is the Title</h3>
+                    <h6 class="news-source" id="news-source">End Gadget 26/08/2023</h6>
+                    <p class="news-desc" id="news-desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae saepe quis voluptatum quisquam vitae doloremque facilis molestias quae ratione cumque!</p>
+                </div>
+            </div>
+        </template>
+
+        <script src="script.js"></script>
+</body>
+</html>
