@@ -1,4 +1,4 @@
-Global Insight - API-Based News Application
+#Global Insight - API-Based News Application
 
 Global Insight is a modern, user-friendly news application that provides users with a comprehensive view of global news. The application is built using HTML, CSS, and JavaScript, leveraging a news-based API to fetch real-time news updates. Global Insight not only showcases general news but also allows users to explore news related to specific topics of interest. Additionally, the application features pre-defined sub-news items under the heading, enabling users to quickly access news on popular topics.
 
