@@ -3,9 +3,10 @@ Global Insight - API-Based News Application
 Global Insight is a modern, user-friendly news application that provides users with a comprehensive view of global news. The application is built using HTML, CSS, and JavaScript, leveraging a news-based API to fetch real-time news updates. Global Insight not only showcases general news but also allows users to explore news related to specific topics of interest. Additionally, the application features pre-defined sub-news items under the heading, enabling users to quickly access news on popular topics.
 
 <img width="937" alt="n1" src="https://github.com/Shambhavi864/Global-Insight/assets/95189537/d8aeacab-a1d8-48ae-8dc8-04c8c6bea0f9">
-<img width="608" alt="n2" src="https://github.com/Shambhavi864/Global-Insight/assets/95189537/7f460b75-97bc-4b03-97db-9be354078a64">
 
 When searched specifically about Prime Minister of India - Shri Narendra Modi.
+<img width="608" alt="n2" src="https://github.com/Shambhavi864/Global-Insight/assets/95189537/7f460b75-97bc-4b03-97db-9be354078a64">
+
 Results:-
 
 <img width="933" alt="n3" src="https://github.com/Shambhavi864/Global-Insight/assets/95189537/ac7d7218-3bc3-4e8d-b96c-aaf658495058">
