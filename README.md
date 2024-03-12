@@ -10,6 +10,8 @@ When searched specifically about Prime Minister of India - Shri Narendra Modi.
 Results:-
 
 <img width="933" alt="n3" src="https://github.com/Shambhavi864/Global-Insight/assets/95189537/ac7d7218-3bc3-4e8d-b96c-aaf658495058">
+
+When searched news related to finance sector.
 <img width="935" alt="n4" src="https://github.com/Shambhavi864/Global-Insight/assets/95189537/71914b20-2ee7-4f65-a24c-86241d3ba154">
 <img width="941" alt="n5" src="https://github.com/Shambhavi864/Global-Insight/assets/95189537/ba09938c-d002-4901-a219-df1be1236296">
 
